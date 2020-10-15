@@ -11,7 +11,7 @@
  <chapters>
  <chapter nom="first chapter">
  <paragraphs>
- <paragraph>>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraph>
+ <paragraph>><element id="10">></element></paragraph>
  <paragraph><![CDATA[<element id="10">&gt;</element>]]></paragraph>
  </paragraphs>
  </chapiter>
