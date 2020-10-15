@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Club clubId="ACM">
+<Club clubId="ACM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="club.xsd">
    <Member id="_12345" clubs="ACM">
    <Name>
       <FirstName>WEB</FirstName>
