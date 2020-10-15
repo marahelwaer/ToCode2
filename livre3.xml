@@ -1,1 +1,53 @@
 
+<p1:livre titre="Mon livre" xmlns:e1="http://www.masociete.com" xmlns:e2="http://www.monentreprise.com">
+  <e1:book>
+  <e1:name>PrettyLittleThing </e1:name>
+ <e1:authors>
+ <e1:author>
+   <e1:name>Sona Charaipotra</name>
+   </e1:author>
+ <e1:author>
+   <e1:name>Dhonielle Clayton</e1:name>
+ </e1:author>
+ </e1:authors>
+ <e1:sections>
+ <e1:section>
+ <e1:title>first section</e1:title>
+ <e1:chapters>
+ <e1:chapter>
+ <e1:title>first chapter</e1:title>
+ <e1:paragraphs>
+ <e1:paragraph>first paragraph</e1:paragraph>
+ <e1:paragraph>second paragraph</e1:paragraph>
+ </e1:paragraphs>
+ </e1:chapiter>
+ <e1:chapter>
+ <e1:title>second chapter</e1:title>
+ <e1:paragraphs>
+ <e1:paragraph>first paragraph</e1:paragraph>
+ <e1:paragraph>second paragraph</e1:paragraph>
+ </e1:paragraphs>
+ </e1:chapter>
+ </e1:chapters>
+ </e1:section>
+ <e2:section>
+ <e2:title>second section</e2:title>
+ <e2:chapters>
+ <e2:chapter>
+ <e2:title>first chapter</e2:title>
+ <e2:paragraphs>
+ <e2:paragraph>first paragraph</e2:paragraph>
+ <e2:paragraph>second paragraph</e2:paragraph>
+ </e2:paragraphs>
+ </e2:chapiter>
+ <e2:chapter>
+ <e2:title>second chapter</e2:title>
+ <e2:paragraphs>
+ <e2:paragraph>first paragraph</e2:paragraph>
+ <paragraph>second paragraph</paragraph>
+ </e2:paragraphs>
+ </e2:chapter>
+ </e2:chapters>
+ </e2:section>
+   </e1:sections>
+</e1:book>
