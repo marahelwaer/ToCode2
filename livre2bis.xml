@@ -1,1 +1,43 @@
 
+<?xml version="1.0" encoding="iso-8859-1"?>
+<book titre="PrettyLittleThing">
+  
+ <authors>
+ <author nom="Sona" prenom="Charaipotra"/ >
+ <author nom="Dhonielle" prenom="Clayton"/ >
+ </authors>
+ <sections>
+ <section nom="first section">
+ <chapters>
+ <chapter nom="first chapter">
+ <paragraphs>
+ <paragraph>>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraph>
+ <paragraph><![CDATA[<element id="10">&gt;</element>]]></paragraph>
+ </paragraphs>
+ </chapiter>
+ <chapter nom="second chapter">
+ <paragraphs>
+ <paragraph>first paragraph</paragraph>
+ <paragraph>second paragraph</paragraph>
+ </paragraphs>
+ </chapter>
+ </chapters>
+ </section>
+ <section nom="second section">
+ <chapters>
+ <chapter nom="first chapter">
+ <paragraphs>
+ <paragraph>first paragraph</paragraph>
+ <paragraph>second paragraph</paragraph>
+ </paragraphs>
+ </chapiter>
+ <chapter nom="second chapter">
+ <paragraphs>
+ <paragraph>first paragraph</paragraph>
+ <paragraph>second paragraph</paragraph>
+ </paragraphs>
+ </chapter>
+ </chapters>
+ </section>
+   </sections>
+</book>
